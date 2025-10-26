@@ -1,0 +1,1082 @@
+[
+    {
+        "Country Code": "IQ",
+        "Country Name": "Iraq",
+        "Latitude": 33.33,
+        "Longitude": 44.4,
+        "Area": 438317.0,
+        "Population": 40222503
+    },
+    {
+        "Country Code": "SA",
+        "Country Name": "Saudi Arabia",
+        "Latitude": 24.65,
+        "Longitude": 46.7,
+        "Area": 2149690.0,
+        "Population": 34813867
+    },
+    {
+        "Country Code": "KG",
+        "Country Name": "Kyrgyzstan",
+        "Latitude": 42.87,
+        "Longitude": 74.6,
+        "Area": 199951.0,
+        "Population": 6591600
+    },
+    {
+        "Country Code": "LA",
+        "Country Name": "Laos",
+        "Latitude": 17.97,
+        "Longitude": 102.6,
+        "Area": 236800.0,
+        "Population": 7275556
+    },
+    {
+        "Country Code": "KH",
+        "Country Name": "Cambodia",
+        "Latitude": 11.55,
+        "Longitude": 104.92,
+        "Area": 181035.0,
+        "Population": 16718971
+    },
+    {
+        "Country Code": "YE",
+        "Country Name": "Yemen",
+        "Latitude": 15.37,
+        "Longitude": 44.19,
+        "Area": 527968.0,
+        "Population": 29825968
+    },
+    {
+        "Country Code": "BN",
+        "Country Name": "Brunei",
+        "Latitude": 4.88,
+        "Longitude": 114.93,
+        "Area": 5765.0,
+        "Population": 437483
+    },
+    {
+        "Country Code": "IL",
+        "Country Name": "Israel",
+        "Latitude": 31.77,
+        "Longitude": 35.23,
+        "Area": 20770.0,
+        "Population": 9216900
+    },
+    {
+        "Country Code": "UZ",
+        "Country Name": "Uzbekistan",
+        "Latitude": 41.32,
+        "Longitude": 69.25,
+        "Area": 447400.0,
+        "Population": 34232050
+    },
+    {
+        "Country Code": "BD",
+        "Country Name": "Bangladesh",
+        "Latitude": 23.72,
+        "Longitude": 90.4,
+        "Area": 147570.0,
+        "Population": 164689383
+    },
+    {
+        "Country Code": "KR",
+        "Country Name": "South Korea",
+        "Latitude": 37.55,
+        "Longitude": 126.98,
+        "Area": 100210.0,
+        "Population": 51780579
+    },
+    {
+        "Country Code": "ID",
+        "Country Name": "Indonesia",
+        "Latitude": -6.17,
+        "Longitude": 106.82,
+        "Area": 1904569.0,
+        "Population": 273523621
+    },
+    {
+        "Country Code": "OM",
+        "Country Name": "Oman",
+        "Latitude": 23.62,
+        "Longitude": 58.58,
+        "Area": 309500.0,
+        "Population": 5106622
+    },
+    {
+        "Country Code": "BT",
+        "Country Name": "Bhutan",
+        "Latitude": 27.47,
+        "Longitude": 89.63,
+        "Area": 38394.0,
+        "Population": 771612
+    },
+    {
+        "Country Code": "JP",
+        "Country Name": "Japan",
+        "Latitude": 35.68,
+        "Longitude": 139.75,
+        "Area": 377930.0,
+        "Population": 125836021
+    },
+    {
+        "Country Code": "JO",
+        "Country Name": "Jordan",
+        "Latitude": 31.95,
+        "Longitude": 35.93,
+        "Area": 89342.0,
+        "Population": 10203140
+    },
+    {
+        "Country Code": "KZ",
+        "Country Name": "Kazakhstan",
+        "Latitude": 51.16,
+        "Longitude": 71.45,
+        "Area": 2724900.0,
+        "Population": 18754440
+    },
+    {
+        "Country Code": "IN",
+        "Country Name": "India",
+        "Latitude": 28.6,
+        "Longitude": 77.2,
+        "Area": 3287590.0,
+        "Population": 1380004385
+    },
+    {
+        "Country Code": "MN",
+        "Country Name": "Mongolia",
+        "Latitude": 47.92,
+        "Longitude": 106.91,
+        "Area": 1564110.0,
+        "Population": 3278292
+    },
+    {
+        "Country Code": "LK",
+        "Country Name": "Sri Lanka",
+        "Latitude": 6.89,
+        "Longitude": 79.9,
+        "Area": 65610.0,
+        "Population": 21919000
+    },
+    {
+        "Country Code": "AE",
+        "Country Name": "United Arab Emirates",
+        "Latitude": 24.47,
+        "Longitude": 54.37,
+        "Area": 83600.0,
+        "Population": 9890400
+    },
+    {
+        "Country Code": "LB",
+        "Country Name": "Lebanon",
+        "Latitude": 33.87,
+        "Longitude": 35.5,
+        "Area": 10452.0,
+        "Population": 6825442
+    },
+    {
+        "Country Code": "QA",
+        "Country Name": "Qatar",
+        "Latitude": 25.28,
+        "Longitude": 51.53,
+        "Area": 11586.0,
+        "Population": 2881060
+    },
+    {
+        "Country Code": "IR",
+        "Country Name": "Iran",
+        "Latitude": 35.7,
+        "Longitude": 51.42,
+        "Area": 1648195.0,
+        "Population": 83992953
+    },
+    {
+        "Country Code": "MY",
+        "Country Name": "Malaysia",
+        "Latitude": 3.17,
+        "Longitude": 101.7,
+        "Area": 330803.0,
+        "Population": 32365998
+    },
+    {
+        "Country Code": "TR",
+        "Country Name": "Turkey",
+        "Latitude": 39.93,
+        "Longitude": 32.87,
+        "Area": 783562.0,
+        "Population": 84339067
+    },
+    {
+        "Country Code": "TL",
+        "Country Name": "Timor-Leste",
+        "Latitude": -8.58,
+        "Longitude": 125.6,
+        "Area": 14874.0,
+        "Population": 1318442
+    },
+    {
+        "Country Code": "TJ",
+        "Country Name": "Tajikistan",
+        "Latitude": 38.55,
+        "Longitude": 68.77,
+        "Area": 143100.0,
+        "Population": 9537642
+    },
+    {
+        "Country Code": "MM",
+        "Country Name": "Myanmar",
+        "Latitude": 19.76,
+        "Longitude": 96.07,
+        "Area": 676578.0,
+        "Population": 54409794
+    },
+    {
+        "Country Code": "AM",
+        "Country Name": "Armenia",
+        "Latitude": 40.17,
+        "Longitude": 44.5,
+        "Area": 29743.0,
+        "Population": 2963234
+    },
+    {
+        "Country Code": "PH",
+        "Country Name": "Philippines",
+        "Latitude": 14.6,
+        "Longitude": 120.97,
+        "Area": 342353.0,
+        "Population": 109581085
+    },
+    {
+        "Country Code": "KP",
+        "Country Name": "North Korea",
+        "Latitude": 39.02,
+        "Longitude": 125.75,
+        "Area": 120538.0,
+        "Population": 25778815
+    },
+    {
+        "Country Code": "SY",
+        "Country Name": "Syria",
+        "Latitude": 33.5,
+        "Longitude": 36.3,
+        "Area": 185180.0,
+        "Population": 17500657
+    },
+    {
+        "Country Code": "CN",
+        "Country Name": "China",
+        "Latitude": 39.92,
+        "Longitude": 116.38,
+        "Area": 9706961.0,
+        "Population": 1402112000
+    },
+    {
+        "Country Code": "NP",
+        "Country Name": "Nepal",
+        "Latitude": 27.72,
+        "Longitude": 85.32,
+        "Area": 147181.0,
+        "Population": 29136808
+    },
+    {
+        "Country Code": "TM",
+        "Country Name": "Turkmenistan",
+        "Latitude": 37.95,
+        "Longitude": 58.38,
+        "Area": 488100.0,
+        "Population": 6031187
+    },
+    {
+        "Country Code": "MV",
+        "Country Name": "Maldives",
+        "Latitude": 4.17,
+        "Longitude": 73.51,
+        "Area": 300.0,
+        "Population": 540542
+    },
+    {
+        "Country Code": "PK",
+        "Country Name": "Pakistan",
+        "Latitude": 33.68,
+        "Longitude": 73.05,
+        "Area": 881912.0,
+        "Population": 220892331
+    },
+    {
+        "Country Code": "TH",
+        "Country Name": "Thailand",
+        "Latitude": 13.75,
+        "Longitude": 100.52,
+        "Area": 513120.0,
+        "Population": 69799978
+    },
+    {
+        "Country Code": "SG",
+        "Country Name": "Singapore",
+        "Latitude": 1.28,
+        "Longitude": 103.85,
+        "Area": 710.0,
+        "Population": 5685807
+    },
+    {
+        "Country Code": "VN",
+        "Country Name": "Vietnam",
+        "Latitude": 21.03,
+        "Longitude": 105.85,
+        "Area": 331212.0,
+        "Population": 97338583
+    },
+    {
+        "Country Code": "BH",
+        "Country Name": "Bahrain",
+        "Latitude": 26.23,
+        "Longitude": 50.57,
+        "Area": 765.0,
+        "Population": 1701583
+    },
+    {
+        "Country Code": "KW",
+        "Country Name": "Kuwait",
+        "Latitude": 29.37,
+        "Longitude": 47.97,
+        "Area": 17818.0,
+        "Population": 4270563
+    },
+    {
+        "Country Code": "AF",
+        "Country Name": "Afghanistan",
+        "Latitude": 34.52,
+        "Longitude": 69.18,
+        "Area": 652230.0,
+        "Population": 40218234
+    },
+    {
+        "Country Code": "TW",
+        "Country Name": "Taiwan",
+        "Latitude": 25.03,
+        "Longitude": 121.52,
+        "Area": 36193.0,
+        "Population": 23503349
+    },
+    {
+        "Country Code": "AG",
+        "Country Name": "Antigua and Barbuda",
+        "Latitude": 17.12,
+        "Longitude": -61.85,
+        "Population": 97928,
+        "Area": 442.0
+    },
+    {
+        "Country Code": "BS",
+        "Country Name": "Bahamas",
+        "Latitude": 25.08,
+        "Longitude": -77.35,
+        "Population": 393248,
+        "Area": 13943.0
+    },
+    {
+        "Country Code": "BB",
+        "Country Name": "Barbados",
+        "Latitude": 13.1,
+        "Longitude": -59.62,
+        "Population": 287371,
+        "Area": 430.0
+    },
+    {
+        "Country Code": "CA",
+        "Country Name": "Canada",
+        "Latitude": 45.42,
+        "Longitude": -75.7,
+        "Population": 38005238,
+        "Area": 9984670.0
+    },
+    {
+        "Country Code": "CR",
+        "Country Name": "Costa Rica",
+        "Latitude": 9.93,
+        "Longitude": -84.09,
+        "Population": 5094114,
+        "Area": 51100.0
+    },
+    {
+        "Country Code": "CU",
+        "Country Name": "Cuba",
+        "Latitude": 23.12,
+        "Longitude": -82.35,
+        "Population": 11326616,
+        "Area": 109884.0
+    },
+    {
+        "Country Code": "BZ",
+        "Country Name": "Belize",
+        "Latitude": 17.25,
+        "Longitude": -88.77,
+        "Population": 397621,
+        "Area": 22966.0
+    },
+    {
+        "Country Code": "DM",
+        "Country Name": "Dominica",
+        "Latitude": 15.3,
+        "Longitude": -61.4,
+        "Population": 71991,
+        "Area": 751.0
+    },
+    {
+        "Country Code": "SV",
+        "Country Name": "El Salvador",
+        "Latitude": 13.7,
+        "Longitude": -89.2,
+        "Population": 6486201,
+        "Area": 21041.0
+    },
+    {
+        "Country Code": "DO",
+        "Country Name": "Dominican Republic",
+        "Latitude": 18.47,
+        "Longitude": -69.9,
+        "Population": 10847904,
+        "Area": 48671.0
+    },
+    {
+        "Country Code": "GT",
+        "Country Name": "Guatemala",
+        "Latitude": 14.62,
+        "Longitude": -90.52,
+        "Population": 16858333,
+        "Area": 108889.0
+    },
+    {
+        "Country Code": "HN",
+        "Country Name": "Honduras",
+        "Latitude": 14.1,
+        "Longitude": -87.22,
+        "Population": 9904608,
+        "Area": 112492.0
+    },
+    {
+        "Country Code": "JM",
+        "Country Name": "Jamaica",
+        "Latitude": 17.99702,
+        "Longitude": -76.79358,
+        "Population": 2961161,
+        "Area": 10991.0
+    },
+    {
+        "Country Code": "MX",
+        "Country Name": "Mexico",
+        "Latitude": 19.43,
+        "Longitude": -99.13,
+        "Population": 128932753,
+        "Area": 1964375.0
+    },
+    {
+        "Country Code": "KN",
+        "Country Name": "Saint Kitts and Nevis",
+        "Latitude": 17.3,
+        "Longitude": -62.72,
+        "Population": 53192,
+        "Area": 261.0
+    },
+    {
+        "Country Code": "PA",
+        "Country Name": "Panama",
+        "Latitude": 8.97,
+        "Longitude": -79.53,
+        "Population": 4314768,
+        "Area": 75417.0
+    },
+    {
+        "Country Code": "NI",
+        "Country Name": "Nicaragua",
+        "Latitude": 12.13,
+        "Longitude": -86.25,
+        "Population": 6624554,
+        "Area": 130373.0
+    },
+    {
+        "Country Code": "HT",
+        "Country Name": "Haiti",
+        "Latitude": 18.53,
+        "Longitude": -72.33,
+        "Population": 11402533,
+        "Area": 27750.0
+    },
+    {
+        "Country Code": "LC",
+        "Country Name": "Saint Lucia",
+        "Latitude": 14.0,
+        "Longitude": -61.0,
+        "Population": 183629,
+        "Area": 616.0
+    },
+    {
+        "Country Code": "US",
+        "Country Name": "United States",
+        "Latitude": 38.89,
+        "Longitude": -77.05,
+        "Population": 329484123,
+        "Area": 9372610.0
+    },
+    {
+        "Country Code": "VC",
+        "Country Name": "Saint Vincent and the Grenadines",
+        "Latitude": 13.13,
+        "Longitude": -61.22,
+        "Population": 110947,
+        "Area": 389.0
+    },
+    {
+        "Country Code": "AR",
+        "Country Name": "Argentina",
+        "Latitude": -34.58,
+        "Longitude": -58.67,
+        "Population": 45376763,
+        "Area": 2780400.0
+    },
+    {
+        "Country Code": "BR",
+        "Country Name": "Brazil",
+        "Latitude": -15.79,
+        "Longitude": -47.88,
+        "Population": 212559409,
+        "Area": 8515767.0
+    },
+    {
+        "Country Code": "BO",
+        "Country Name": "Bolivia",
+        "Latitude": -19.02,
+        "Longitude": -65.26,
+        "Population": 11673029,
+        "Area": 1098581.0
+    },
+    {
+        "Country Code": "CL",
+        "Country Name": "Chile",
+        "Latitude": -33.45,
+        "Longitude": -70.67,
+        "Population": 19116209,
+        "Area": 756102.0
+    },
+    {
+        "Country Code": "CO",
+        "Country Name": "Colombia",
+        "Latitude": 4.71,
+        "Longitude": -74.07,
+        "Population": 50882884,
+        "Area": 1141748.0
+    },
+    {
+        "Country Code": "EC",
+        "Country Name": "Ecuador",
+        "Latitude": -0.22,
+        "Longitude": -78.5,
+        "Population": 17643060,
+        "Area": 276841.0
+    },
+    {
+        "Country Code": "GY",
+        "Country Name": "Guyana",
+        "Latitude": 6.8,
+        "Longitude": -58.15,
+        "Population": 786559,
+        "Area": 214969.0
+    },
+    {
+        "Country Code": "PY",
+        "Country Name": "Paraguay",
+        "Latitude": -25.28,
+        "Longitude": -57.57,
+        "Population": 7132530,
+        "Area": 406752.0
+    },
+    {
+        "Country Code": "PE",
+        "Country Name": "Peru",
+        "Latitude": -12.05,
+        "Longitude": -77.05,
+        "Population": 32971846,
+        "Area": 1285216.0
+    },
+    {
+        "Country Code": "SR",
+        "Country Name": "Suriname",
+        "Latitude": 5.83,
+        "Longitude": -55.17,
+        "Population": 586634,
+        "Area": 163820.0
+    },
+    {
+        "Country Code": "UY",
+        "Country Name": "Uruguay",
+        "Latitude": -34.85,
+        "Longitude": -56.17,
+        "Population": 3473727,
+        "Area": 181034.0
+    },
+    {
+        "Country Code": "VE",
+        "Country Name": "Venezuela",
+        "Latitude": 10.48,
+        "Longitude": -66.87,
+        "Population": 28435943,
+        "Area": 916445.0
+    },
+    {
+        "Country Code": "TT",
+        "Country Name": "Trinidad and Tobago",
+        "Latitude": 10.65,
+        "Longitude": -61.52,
+        "Population": 1399491,
+        "Area": 5130.0
+    },
+    {
+        "Country Code": "FJ",
+        "Country Name": "Fiji",
+        "Latitude": -18.13,
+        "Longitude": 178.42,
+        "Population": 896444,
+        "Area": 18272.0
+    },
+    {
+        "Country Code": "NR",
+        "Country Name": "Nauru",
+        "Latitude": -0.55,
+        "Longitude": 166.92,
+        "Population": 10834,
+        "Area": 21.0
+    },
+    {
+        "Country Code": "NZ",
+        "Country Name": "New Zealand",
+        "Latitude": -41.3,
+        "Longitude": 174.78,
+        "Population": 5084300,
+        "Area": 270467.0
+    },
+    {
+        "Country Code": "PW",
+        "Country Name": "Palau",
+        "Latitude": 7.5,
+        "Longitude": 134.62,
+        "Population": 18092,
+        "Area": 459.0
+    },
+    {
+        "Country Code": "PG",
+        "Country Name": "Papua New Guinea",
+        "Latitude": -9.45,
+        "Longitude": 147.18,
+        "Population": 8947027,
+        "Area": 462840.0
+    },
+    {
+        "Country Code": "WS",
+        "Country Name": "Samoa",
+        "Latitude": -13.82,
+        "Longitude": -171.77,
+        "Population": 198410,
+        "Area": 2842.0
+    },
+    {
+        "Country Code": "SB",
+        "Country Name": "Solomon Islands",
+        "Latitude": -9.43,
+        "Longitude": 159.95,
+        "Population": 686878,
+        "Area": 28896.0
+    },
+    {
+        "Country Code": "TO",
+        "Country Name": "Tonga",
+        "Latitude": -21.13,
+        "Longitude": -175.2,
+        "Population": 105697,
+        "Area": 747.0
+    },
+    {
+        "Country Code": "VU",
+        "Country Name": "Vanuatu",
+        "Latitude": -17.73,
+        "Longitude": 168.32,
+        "Population": 307150,
+        "Area": 12189.0
+    },
+    {
+        "Country Code": "AU",
+        "Country Name": "Australia",
+        "Latitude": -35.27,
+        "Longitude": 149.13,
+        "Population": 25687041,
+        "Area": 7692024.0
+    },
+    {
+        "Country Code": "AL",
+        "Country Name": "Albania",
+        "Latitude": 41.32,
+        "Longitude": 19.82,
+        "Population": 2837743,
+        "Area": 28748.0
+    },
+    {
+        "Country Code": "AT",
+        "Country Name": "Austria",
+        "Latitude": 48.2,
+        "Longitude": 16.37,
+        "Population": 8917205,
+        "Area": 83871.0
+    },
+    {
+        "Country Code": "AD",
+        "Country Name": "Andorra",
+        "Latitude": 42.5,
+        "Longitude": 1.52,
+        "Population": 77265,
+        "Area": 468.0
+    },
+    {
+        "Country Code": "AZ",
+        "Country Name": "Azerbaijan",
+        "Latitude": 40.38,
+        "Longitude": 49.87,
+        "Population": 10110116,
+        "Area": 86600.0
+    },
+    {
+        "Country Code": "BY",
+        "Country Name": "Belarus",
+        "Latitude": 53.9,
+        "Longitude": 27.57,
+        "Population": 9398861,
+        "Area": 207600.0
+    },
+    {
+        "Country Code": "BE",
+        "Country Name": "Belgium",
+        "Latitude": 50.83,
+        "Longitude": 4.33,
+        "Population": 11555997,
+        "Area": 30528.0
+    },
+    {
+        "Country Code": "BG",
+        "Country Name": "Bulgaria",
+        "Latitude": 42.68,
+        "Longitude": 23.32,
+        "Population": 6927288,
+        "Area": 110879.0
+    },
+    {
+        "Country Code": "HR",
+        "Country Name": "Croatia",
+        "Latitude": 45.8,
+        "Longitude": 16.0,
+        "Population": 4047200,
+        "Area": 56594.0
+    },
+    {
+        "Country Code": "CY",
+        "Country Name": "Cyprus",
+        "Latitude": 35.17,
+        "Longitude": 33.37,
+        "Population": 1207361,
+        "Area": 9251.0
+    },
+    {
+        "Country Code": "BA",
+        "Country Name": "Bosnia and Herzegovina",
+        "Latitude": 43.87,
+        "Longitude": 18.42,
+        "Population": 3280815,
+        "Area": 51209.0
+    },
+    {
+        "Country Code": "DK",
+        "Country Name": "Denmark",
+        "Latitude": 55.67,
+        "Longitude": 12.58,
+        "Population": 5831404,
+        "Area": 43094.0
+    },
+    {
+        "Country Code": "EE",
+        "Country Name": "Estonia",
+        "Latitude": 59.43,
+        "Longitude": 24.72,
+        "Population": 1331057,
+        "Area": 45227.0
+    },
+    {
+        "Country Code": "FI",
+        "Country Name": "Finland",
+        "Latitude": 60.17,
+        "Longitude": 24.93,
+        "Population": 5530719,
+        "Area": 338424.0
+    },
+    {
+        "Country Code": "CZ",
+        "Country Name": "Czechia",
+        "Latitude": 50.08,
+        "Longitude": 14.47,
+        "Population": 10698896,
+        "Area": 78865.0
+    },
+    {
+        "Country Code": "FR",
+        "Country Name": "France",
+        "Latitude": 48.87,
+        "Longitude": 2.33,
+        "Population": 67391582,
+        "Area": 551695.0
+    },
+    {
+        "Country Code": "GE",
+        "Country Name": "Georgia",
+        "Latitude": 41.68,
+        "Longitude": 44.83,
+        "Population": 3714000,
+        "Area": 69700.0
+    },
+    {
+        "Country Code": "GR",
+        "Country Name": "Greece",
+        "Latitude": 37.98,
+        "Longitude": 23.73,
+        "Population": 10715549,
+        "Area": 131990.0
+    },
+    {
+        "Country Code": "DE",
+        "Country Name": "Germany",
+        "Latitude": 52.52,
+        "Longitude": 13.4,
+        "Population": 83240525,
+        "Area": 357114.0
+    },
+    {
+        "Country Code": "HU",
+        "Country Name": "Hungary",
+        "Latitude": 47.5,
+        "Longitude": 19.08,
+        "Population": 9749763,
+        "Area": 93028.0
+    },
+    {
+        "Country Code": "IS",
+        "Country Name": "Iceland",
+        "Latitude": 64.15,
+        "Longitude": -21.95,
+        "Population": 366425,
+        "Area": 103000.0
+    },
+    {
+        "Country Code": "IE",
+        "Country Name": "Ireland",
+        "Latitude": 53.32,
+        "Longitude": -6.23,
+        "Population": 4994724,
+        "Area": 70273.0
+    },
+    {
+        "Country Code": "IT",
+        "Country Name": "Italy",
+        "Latitude": 41.9,
+        "Longitude": 12.48,
+        "Population": 59554023,
+        "Area": 301336.0
+    },
+    {
+        "Country Code": "LV",
+        "Country Name": "Latvia",
+        "Latitude": 56.95,
+        "Longitude": 24.1,
+        "Population": 1901548,
+        "Area": 64559.0
+    },
+    {
+        "Country Code": "LI",
+        "Country Name": "Liechtenstein",
+        "Latitude": 47.13,
+        "Longitude": 9.52,
+        "Population": 38137,
+        "Area": 160.0
+    },
+    {
+        "Country Code": "LT",
+        "Country Name": "Lithuania",
+        "Latitude": 54.68,
+        "Longitude": 25.32,
+        "Population": 2794700,
+        "Area": 65300.0
+    },
+    {
+        "Country Code": "LU",
+        "Country Name": "Luxembourg",
+        "Latitude": 49.6,
+        "Longitude": 6.12,
+        "Population": 632275,
+        "Area": 2586.0
+    },
+    {
+        "Country Code": "MK",
+        "Country Name": "North Macedonia",
+        "Latitude": 42.0,
+        "Longitude": 21.43,
+        "Population": 2077132,
+        "Area": 25713.0
+    },
+    {
+        "Country Code": "MT",
+        "Country Name": "Malta",
+        "Latitude": 35.88,
+        "Longitude": 14.5,
+        "Population": 525285,
+        "Area": 316.0
+    },
+    {
+        "Country Code": "ME",
+        "Country Name": "Montenegro",
+        "Latitude": 42.43,
+        "Longitude": 19.27,
+        "Population": 621718,
+        "Area": 13812.0
+    },
+    {
+        "Country Code": "NO",
+        "Country Name": "Norway",
+        "Latitude": 59.92,
+        "Longitude": 10.75,
+        "Population": 5379475,
+        "Area": 323802.0
+    },
+    {
+        "Country Code": "NL",
+        "Country Name": "Netherlands",
+        "Latitude": 52.35,
+        "Longitude": 4.92,
+        "Population": 16655799,
+        "Area": 41850.0
+    },
+    {
+        "Country Code": "PT",
+        "Country Name": "Portugal",
+        "Latitude": 38.72,
+        "Longitude": -9.13,
+        "Population": 10305564,
+        "Area": 92090.0
+    },
+    {
+        "Country Code": "PL",
+        "Country Name": "Poland",
+        "Latitude": 52.25,
+        "Longitude": 21.0,
+        "Population": 37950802,
+        "Area": 312679.0
+    },
+    {
+        "Country Code": "RO",
+        "Country Name": "Romania",
+        "Latitude": 44.43,
+        "Longitude": 26.1,
+        "Population": 19286123,
+        "Area": 238391.0
+    },
+    {
+        "Country Code": "SM",
+        "Country Name": "San Marino",
+        "Latitude": 43.94,
+        "Longitude": 12.45,
+        "Population": 33938,
+        "Area": 61.0
+    },
+    {
+        "Country Code": "MD",
+        "Country Name": "Moldova",
+        "Latitude": 47.01,
+        "Longitude": 28.9,
+        "Population": 2617820,
+        "Area": 33846.0
+    },
+    {
+        "Country Code": "RU",
+        "Country Name": "Russia",
+        "Latitude": 55.75,
+        "Longitude": 37.6,
+        "Population": 144104080,
+        "Area": 17098242.0
+    },
+    {
+        "Country Code": "RS",
+        "Country Name": "Serbia",
+        "Latitude": 44.83,
+        "Longitude": 20.5,
+        "Population": 6908224,
+        "Area": 88361.0
+    },
+    {
+        "Country Code": "SK",
+        "Country Name": "Slovakia",
+        "Latitude": 48.15,
+        "Longitude": 17.12,
+        "Population": 5458827,
+        "Area": 49037.0
+    },
+    {
+        "Country Code": "SI",
+        "Country Name": "Slovenia",
+        "Latitude": 46.05,
+        "Longitude": 14.52,
+        "Population": 2100126,
+        "Area": 20273.0
+    },
+    {
+        "Country Code": "ES",
+        "Country Name": "Spain",
+        "Latitude": 40.4,
+        "Longitude": -3.68,
+        "Population": 47351567,
+        "Area": 505992.0
+    },
+    {
+        "Country Code": "SE",
+        "Country Name": "Sweden",
+        "Latitude": 59.33,
+        "Longitude": 18.05,
+        "Population": 10353442,
+        "Area": 450295.0
+    },
+    {
+        "Country Code": "CH",
+        "Country Name": "Switzerland",
+        "Latitude": 46.92,
+        "Longitude": 7.47,
+        "Population": 8654622,
+        "Area": 41284.0
+    },
+    {
+        "Country Code": "GB",
+        "Country Name": "United Kingdom",
+        "Latitude": 51.5,
+        "Longitude": -0.08,
+        "Population": 67215293,
+        "Area": 242900.0
+    },
+    {
+        "Country Code": "UA",
+        "Country Name": "Ukraine",
+        "Latitude": 50.43,
+        "Longitude": 30.52,
+        "Population": 44134693,
+        "Area": 603500.0
+    },
+    {
+        "Country Code": "VA",
+        "Country Name": "Vatican City",
+        "Latitude": 41.9,
+        "Longitude": 12.45,
+        "Population": 451,
+        "Area": 0.44
+    }
+]

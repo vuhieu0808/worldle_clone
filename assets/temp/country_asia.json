@@ -1,0 +1,362 @@
+[
+    {
+        "Country Code": "IQ",
+        "Country Name": "Iraq",
+        "Latitude": 33.33,
+        "Longitude": 44.4,
+        "Area": 438317.0,
+        "Population": 40222503
+    },
+    {
+        "Country Code": "SA",
+        "Country Name": "Saudi Arabia",
+        "Latitude": 24.65,
+        "Longitude": 46.7,
+        "Area": 2149690.0,
+        "Population": 34813867
+    },
+    {
+        "Country Code": "KG",
+        "Country Name": "Kyrgyzstan",
+        "Latitude": 42.87,
+        "Longitude": 74.6,
+        "Area": 199951.0,
+        "Population": 6591600
+    },
+    {
+        "Country Code": "LA",
+        "Country Name": "Laos",
+        "Latitude": 17.97,
+        "Longitude": 102.6,
+        "Area": 236800.0,
+        "Population": 7275556
+    },
+    {
+        "Country Code": "KH",
+        "Country Name": "Cambodia",
+        "Latitude": 11.55,
+        "Longitude": 104.92,
+        "Area": 181035.0,
+        "Population": 16718971
+    },
+    {
+        "Country Code": "YE",
+        "Country Name": "Yemen",
+        "Latitude": 15.37,
+        "Longitude": 44.19,
+        "Area": 527968.0,
+        "Population": 29825968
+    },
+    {
+        "Country Code": "BN",
+        "Country Name": "Brunei",
+        "Latitude": 4.88,
+        "Longitude": 114.93,
+        "Area": 5765.0,
+        "Population": 437483
+    },
+    {
+        "Country Code": "IL",
+        "Country Name": "Israel",
+        "Latitude": 31.77,
+        "Longitude": 35.23,
+        "Area": 20770.0,
+        "Population": 9216900
+    },
+    {
+        "Country Code": "UZ",
+        "Country Name": "Uzbekistan",
+        "Latitude": 41.32,
+        "Longitude": 69.25,
+        "Area": 447400.0,
+        "Population": 34232050
+    },
+    {
+        "Country Code": "BD",
+        "Country Name": "Bangladesh",
+        "Latitude": 23.72,
+        "Longitude": 90.4,
+        "Area": 147570.0,
+        "Population": 164689383
+    },
+    {
+        "Country Code": "KR",
+        "Country Name": "South Korea",
+        "Latitude": 37.55,
+        "Longitude": 126.98,
+        "Area": 100210.0,
+        "Population": 51780579
+    },
+    {
+        "Country Code": "ID",
+        "Country Name": "Indonesia",
+        "Latitude": -6.17,
+        "Longitude": 106.82,
+        "Area": 1904569.0,
+        "Population": 273523621
+    },
+    {
+        "Country Code": "OM",
+        "Country Name": "Oman",
+        "Latitude": 23.62,
+        "Longitude": 58.58,
+        "Area": 309500.0,
+        "Population": 5106622
+    },
+    {
+        "Country Code": "BT",
+        "Country Name": "Bhutan",
+        "Latitude": 27.47,
+        "Longitude": 89.63,
+        "Area": 38394.0,
+        "Population": 771612
+    },
+    {
+        "Country Code": "JP",
+        "Country Name": "Japan",
+        "Latitude": 35.68,
+        "Longitude": 139.75,
+        "Area": 377930.0,
+        "Population": 125836021
+    },
+    {
+        "Country Code": "JO",
+        "Country Name": "Jordan",
+        "Latitude": 31.95,
+        "Longitude": 35.93,
+        "Area": 89342.0,
+        "Population": 10203140
+    },
+    {
+        "Country Code": "KZ",
+        "Country Name": "Kazakhstan",
+        "Latitude": 51.16,
+        "Longitude": 71.45,
+        "Area": 2724900.0,
+        "Population": 18754440
+    },
+    {
+        "Country Code": "IN",
+        "Country Name": "India",
+        "Latitude": 28.6,
+        "Longitude": 77.2,
+        "Area": 3287590.0,
+        "Population": 1380004385
+    },
+    {
+        "Country Code": "MN",
+        "Country Name": "Mongolia",
+        "Latitude": 47.92,
+        "Longitude": 106.91,
+        "Area": 1564110.0,
+        "Population": 3278292
+    },
+    {
+        "Country Code": "LK",
+        "Country Name": "Sri Lanka",
+        "Latitude": 6.89,
+        "Longitude": 79.9,
+        "Area": 65610.0,
+        "Population": 21919000
+    },
+    {
+        "Country Code": "AE",
+        "Country Name": "United Arab Emirates",
+        "Latitude": 24.47,
+        "Longitude": 54.37,
+        "Area": 83600.0,
+        "Population": 9890400
+    },
+    {
+        "Country Code": "LB",
+        "Country Name": "Lebanon",
+        "Latitude": 33.87,
+        "Longitude": 35.5,
+        "Area": 10452.0,
+        "Population": 6825442
+    },
+    {
+        "Country Code": "QA",
+        "Country Name": "Qatar",
+        "Latitude": 25.28,
+        "Longitude": 51.53,
+        "Area": 11586.0,
+        "Population": 2881060
+    },
+    {
+        "Country Code": "IR",
+        "Country Name": "Iran",
+        "Latitude": 35.7,
+        "Longitude": 51.42,
+        "Area": 1648195.0,
+        "Population": 83992953
+    },
+    {
+        "Country Code": "MY",
+        "Country Name": "Malaysia",
+        "Latitude": 3.17,
+        "Longitude": 101.7,
+        "Area": 330803.0,
+        "Population": 32365998
+    },
+    {
+        "Country Code": "TR",
+        "Country Name": "Turkey",
+        "Latitude": 39.93,
+        "Longitude": 32.87,
+        "Area": 783562.0,
+        "Population": 84339067
+    },
+    {
+        "Country Code": "TL",
+        "Country Name": "Timor-Leste",
+        "Latitude": -8.58,
+        "Longitude": 125.6,
+        "Area": 14874.0,
+        "Population": 1318442
+    },
+    {
+        "Country Code": "TJ",
+        "Country Name": "Tajikistan",
+        "Latitude": 38.55,
+        "Longitude": 68.77,
+        "Area": 143100.0,
+        "Population": 9537642
+    },
+    {
+        "Country Code": "MM",
+        "Country Name": "Myanmar",
+        "Latitude": 19.76,
+        "Longitude": 96.07,
+        "Area": 676578.0,
+        "Population": 54409794
+    },
+    {
+        "Country Code": "AM",
+        "Country Name": "Armenia",
+        "Latitude": 40.17,
+        "Longitude": 44.5,
+        "Area": 29743.0,
+        "Population": 2963234
+    },
+    {
+        "Country Code": "PH",
+        "Country Name": "Philippines",
+        "Latitude": 14.6,
+        "Longitude": 120.97,
+        "Area": 342353.0,
+        "Population": 109581085
+    },
+    {
+        "Country Code": "KP",
+        "Country Name": "North Korea",
+        "Latitude": 39.02,
+        "Longitude": 125.75,
+        "Area": 120538.0,
+        "Population": 25778815
+    },
+    {
+        "Country Code": "SY",
+        "Country Name": "Syria",
+        "Latitude": 33.5,
+        "Longitude": 36.3,
+        "Area": 185180.0,
+        "Population": 17500657
+    },
+    {
+        "Country Code": "CN",
+        "Country Name": "China",
+        "Latitude": 39.92,
+        "Longitude": 116.38,
+        "Area": 9706961.0,
+        "Population": 1402112000
+    },
+    {
+        "Country Code": "NP",
+        "Country Name": "Nepal",
+        "Latitude": 27.72,
+        "Longitude": 85.32,
+        "Area": 147181.0,
+        "Population": 29136808
+    },
+    {
+        "Country Code": "TM",
+        "Country Name": "Turkmenistan",
+        "Latitude": 37.95,
+        "Longitude": 58.38,
+        "Area": 488100.0,
+        "Population": 6031187
+    },
+    {
+        "Country Code": "MV",
+        "Country Name": "Maldives",
+        "Latitude": 4.17,
+        "Longitude": 73.51,
+        "Area": 300.0,
+        "Population": 540542
+    },
+    {
+        "Country Code": "PK",
+        "Country Name": "Pakistan",
+        "Latitude": 33.68,
+        "Longitude": 73.05,
+        "Area": 881912.0,
+        "Population": 220892331
+    },
+    {
+        "Country Code": "TH",
+        "Country Name": "Thailand",
+        "Latitude": 13.75,
+        "Longitude": 100.52,
+        "Area": 513120.0,
+        "Population": 69799978
+    },
+    {
+        "Country Code": "SG",
+        "Country Name": "Singapore",
+        "Latitude": 1.28,
+        "Longitude": 103.85,
+        "Area": 710.0,
+        "Population": 5685807
+    },
+    {
+        "Country Code": "VN",
+        "Country Name": "Vietnam",
+        "Latitude": 21.03,
+        "Longitude": 105.85,
+        "Area": 331212.0,
+        "Population": 97338583
+    },
+    {
+        "Country Code": "BH",
+        "Country Name": "Bahrain",
+        "Latitude": 26.23,
+        "Longitude": 50.57,
+        "Area": 765.0,
+        "Population": 1701583
+    },
+    {
+        "Country Code": "KW",
+        "Country Name": "Kuwait",
+        "Latitude": 29.37,
+        "Longitude": 47.97,
+        "Area": 17818.0,
+        "Population": 4270563
+    },
+    {
+        "Country Code": "AF",
+        "Country Name": "Afghanistan",
+        "Latitude": 34.52,
+        "Longitude": 69.18,
+        "Area": 652230.0,
+        "Population": 40218234
+    },
+    {
+        "Country Code": "TW",
+        "Country Name": "Taiwan",
+        "Latitude": 25.03,
+        "Longitude": 121.52,
+        "Area": 36193.0,
+        "Population": 23503349
+    }
+]
