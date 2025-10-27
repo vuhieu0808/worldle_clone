@@ -14,6 +14,9 @@ COLOR_ERROR = "#ff4444"
 FONT_SMALL = ("Arial", 18, "bold")
 FONT_ERROR = ("Arial", 16, "bold")
 
+COUNTRY_DATA_PATH = "assets/country.json"
+COUNTRY_IMAGE_PATH = "assets/countries/"
+
 # Set customtkinter appearance
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
@@ -23,7 +26,7 @@ class GameApp(ctk.CTk):
         super().__init__()
         self.title("Game Application")
         self.geometry("1920x1080")
-        self.config(bg="#1e1e1e")
+        self.config(bg=BACKGROUND_COLOR)
 
         # Load assets
         self.countryData = {} # (countryCode, data) (data: [Country Name, Latitude, Longitude, Population, Area])
@@ -57,7 +60,7 @@ class GameApp(ctk.CTk):
 
     def load_assets(self):
         # Load country data from JSON
-        with open("assets/country.json", "r") as f:
+        with open(COUNTRY_DATA_PATH, "r") as f:
             data = json.load(f)
 
         for country in data:
@@ -409,7 +412,7 @@ If the distance gets smaller, you're getting closer to the correct answer!""",
 
         # Display the secret country image (smaller size)
         # Resize image to 300x300 for end screen with white background
-        svg_path = f"assets/countries/{self.secretCountry}.svg"
+        svg_path = f"{COUNTRY_IMAGE_PATH}{self.secretCountry}.svg"
         png_data = cairosvg.svg2png(url=svg_path, output_width=300, output_height=300, background_color='white')
         pil_image = Image.open(io.BytesIO(png_data))
         smaller_image = ctk.CTkImage(light_image=pil_image, dark_image=pil_image, size=(300, 300))
@@ -480,7 +483,7 @@ If the distance gets smaller, you're getting closer to the correct answer!""",
         if (self.secretCountry in self.countryImages):
             print("SVG image loaded for the secret country.")
         else:
-            svg_path = f"assets/countries/{self.secretCountry}.svg"
+            svg_path = f"{COUNTRY_IMAGE_PATH}{self.secretCountry}.svg"
             png_data = cairosvg.svg2png(url=svg_path, output_width=400, output_height=400, background_color='white')
             pil_image = Image.open(io.BytesIO(png_data))
             self.countryImages[self.secretCountry] = ctk.CTkImage(light_image=pil_image, dark_image=pil_image, size=(400, 400))
