@@ -571,7 +571,7 @@ If the distance gets smaller, you're getting closer to the correct answer!""",
         
         # Text box gợi ý các nước
         self.textBoxFrame = ctk.CTkFrame(self.gameScreen, fg_color="transparent", width=400, height=150)
-        self.textBoxFrame.place(x=458, y=70)
+        self.textBoxFrame.place(relx=0.5, rely=0.095, anchor="n", x=-110) 
         self.textBoxFrame.pack_propagate(False)
         self.textBoxSuggestions = ctk.CTkTextbox(
             self.textBoxFrame,
@@ -584,7 +584,7 @@ If the distance gets smaller, you're getting closer to the correct answer!""",
         )
         self.textBoxSuggestions.pack(fill="both", expand=True)
         self.textBoxFrame.lift()  
-        self.textBoxFrame.place_forget()
+        self.textBoxFrame.place_forget()  # Ẩn đi ban đầu
         self.curSuggestions = []
 
         self.textBoxSuggestions.bind('<Button-1>', self.on_select)
@@ -677,12 +677,12 @@ If the distance gets smaller, you're getting closer to the correct answer!""",
                 self.curSuggestions = suggestions
                 for suggestion in suggestions:
                     self.textBoxSuggestions.insert("end", suggestion + "\n")
-                self.textBoxFrame.place(x=458, y=70)
+                self.textBoxFrame.place(relx=0.5, rely=0.095, anchor="n", x=-110)
                 self.textBoxFrame.lift()
             else:
                 self.curSuggestions = []
                 self.textBoxSuggestions.insert("end", "No suggestions found.")
-                self.textBoxFrame.place(x=458, y=70)
+                self.textBoxFrame.place(relx=0.5, rely=0.095, anchor="n", x=-110)
                 self.textBoxFrame.lift()
         else:
             self.textBoxFrame.place_forget() 
