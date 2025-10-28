@@ -14,8 +14,8 @@ COLOR_ERROR = "#ff4444"
 FONT_SMALL = ("Arial", 18, "bold")
 FONT_ERROR = ("Arial", 16, "bold")
 
-COUNTRY_DATA_PATH = "assets/country.json"
-COUNTRY_IMAGE_PATH = "assets/countries/"
+COUNTRY_DATA_PATH = "./src/assets/country.json"
+COUNTRY_IMAGE_PATH = "./src/assets/countries/"
 
 # Set customtkinter appearance
 ctk.set_appearance_mode("dark")
